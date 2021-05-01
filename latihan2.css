@@ -1,0 +1,22 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #adc0d8;}
+	li {
+	float: left;}
+li a{	
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;}
+li a:hover {
+	background-color: #c3d7fb;}
+	body {background-color:#b5c9ea;}
+	table, th, td 
+p  {text-align: center;
+color: #263f69;}
+h1 {color: #263f69;}
+p  {text-align: justify;
+color: #263f69;}
